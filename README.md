@@ -117,7 +117,7 @@
 I'm always excited to discuss innovative projects, UX design challenges, or leadership opportunities!
 
 ### 🌟 Community Involvement
-- 🎤 **Conference Speaker:** Visual strategy for tech conferences
+- 🎤 **Conference Creative Mind:** Visual strategy for the biggest free tech conference in Portugal
 - 👥 **Mentor:** Math & Physics tutoring (2020-2022)
 - 🤝 **Volunteer:** Banco Alimentar, Re-Food, WebSummit
 
