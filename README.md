@@ -16,59 +16,23 @@
 
 <br>
 
-### 🌸 Programming Languages
-*Python • JavaScript • Java • Julia • C/C++ • Swift • Prolog • Assembly*
+| 🌸 **Programming** | 🌿 **Web & Systems** | 🍃 **Frameworks** |
+|:---:|:---:|:---:|
+| *Python • JavaScript • Java* | *HTML5 • CSS3 • Git* | *SwiftUI • UIKit • React* |
+| *Julia • C/C++ • Swift* | *REST APIs • Debugging* | *Figma • Enterprise Tools* |
+| *Prolog • Assembly* | *Testing • Automation* | *Full-Stack Development* |
 
 <br>
 
-### 🌿 Web & Systems  
-*HTML5 • CSS3 • Git • REST APIs • Advanced Debugging • Automated Testing • Process Automation*
+| 🎨 **Creative Suite** | 👥 **Leadership** | 🌱 **Specialties** |
+|:---:|:---:|:---:|
+| *Adobe Illustrator • Photoshop* | *Strategic Communication* | *UX/UI Design* |
+| *Premiere Pro • After Effects* | *Cross-Cultural Collaboration* | *iOS Development* |
+| *Advanced Visual Design* | *Team Leadership • Problem-Solving* | *Data Science* |
 
 <br>
-
-### 🍃 Frameworks & Platforms
-*SwiftUI • UIKit • React • Figma • Enterprise-grade Development Tools*
-
-<br><br>
 
 > *"In my creative cottage, every tool has its place and purpose"*
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎨 Creative Suite
-
-*Adobe Illustrator*  
-*Photoshop • Premiere Pro*  
-*After Effects*  
-*Advanced Visual Design*
-
-</td>
-<td align="center" width="33%">
-
-### 👥 Leadership
-
-*Strategic Communication*  
-*Cross-Cultural Collaboration*  
-*Team Leadership*  
-*Complex Problem-Solving*
-
-</td>
-<td align="center" width="33%">
-
-### 🌱 Specialties
-
-*UX/UI Design*  
-*iOS Development*  
-*Data Science*  
-*Full-Stack Development*
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -94,11 +58,11 @@
 > *"My creative hobbies mirror my development style - just like I craft intuitive UIs, I love painting, baking, crocheting, reading, and writing. Both coding and creativity require patience, attention to detail, and turning ideas into something beautiful!"*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎨_Painting-D2691E?style=flat-square&labelColor=8B4513" />
-  <img src="https://img.shields.io/badge/🥧_Baking-F4A460?style=flat-square&labelColor=D2691E" />
-  <img src="https://img.shields.io/badge/🧶_Crocheting-DDA0DD?style=flat-square&labelColor=9370DB" />
-  <img src="https://img.shields.io/badge/📚_Reading-4682B4?style=flat-square&labelColor=2F4F4F" />
-  <img src="https://img.shields.io/badge/✍️_Writing-228B22?style=flat-square&labelColor=006400" />
+  <img src="https://img.shields.io/badge/🎨_Painting-F5DEB3?style=flat-square&labelColor=D2691E&color=F5DEB3" />
+  <img src="https://img.shields.io/badge/🥧_Baking-FFF8DC?style=flat-square&labelColor=DEB887&color=FFF8DC" />
+  <img src="https://img.shields.io/badge/🧶_Crocheting-F0E68C?style=flat-square&labelColor=BDB76B&color=F0E68C" />
+  <img src="https://img.shields.io/badge/📚_Reading-E6F3E6?style=flat-square&labelColor=90EE90&color=E6F3E6" />
+  <img src="https://img.shields.io/badge/✍️_Writing-F0FFF0?style=flat-square&labelColor=98FB98&color=F0FFF0" />
 </div>
 
 ---
