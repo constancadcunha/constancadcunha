@@ -71,16 +71,14 @@
 
 <div align="center">
   <em>I'm passionate about crafting digital experiences that feel as warm and inviting as a cozy cottage kitchen.</em>
+  <br>
   
   [![Portfolio](https://img.shields.io/badge/🌿_Portfolio-8B4513?style=for-the-badge&logo=leaf&logoColor=white)](https://constancadcunha.github.io/portfolio/)
   [![Personal Site](https://img.shields.io/badge/🌱_About_Me-228B22?style=for-the-badge&logo=seedling&logoColor=white)](https://constancadcunha.github.io/constancacunha/)
   [![Email](https://img.shields.io/badge/📧_Email-D2691E?style=for-the-badge&logo=envelope&logoColor=white)](mailto:constancadcunha@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-6B8E23?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanca-cunha/)
 
-  
   💼 **Professional inquiries:** constancadcunha@gmail.com
-  
-  <br>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=constancadcunha&color=8B4513&style=flat-square&label=Garden+Visitors)
 </div>
