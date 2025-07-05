@@ -12,49 +12,36 @@
 
 <div align="center">
 
-```
-          🌸 Programming Languages 🌸
-     Python • JavaScript • Java • Julia
-      C/C++ • Swift • Prolog • Assembly
-    ─────────────────────────────────────
-          🍃 Web & Systems 🍃
-     HTML5 • CSS3 • Git • REST APIs
-   Advanced Debugging • Automated Testing
-        Process Automation
-    ─────────────────────────────────────
-         🌿 Frameworks & Platforms 🌿
-    SwiftUI • UIKit • React • Figma
-      Enterprise-grade Development
-    ─────────────────────────────────────
-```
+### 🌸 Programming Languages
+*Python • JavaScript • Java • Julia • C/C++ • Swift • Prolog • Assembly*
+
+### 🍃 Web & Systems  
+*HTML5 • CSS3 • Git • REST APIs • Advanced Debugging • Automated Testing • Process Automation*
+
+### 🌿 Frameworks & Platforms
+*SwiftUI • UIKit • React • Figma • Enterprise-grade Development Tools*
 
 </div>
 
+<br>
+
 <div align="center">
-  <table>
+  <table border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎨_Creative_Suite-8B4513?style=for-the-badge&labelColor=D2691E&color=8B4513" />
-        <br><br>
-        <em>Adobe Illustrator • Photoshop</em><br>
-        <em>Premiere Pro • After Effects</em><br>
-        <em>Advanced Visual Design</em>
+      <td align="center" width="33%">
+        <h3>🎨 Creative Suite</h3>
+        <p><em>Adobe Illustrator<br>Photoshop • Premiere Pro<br>After Effects<br>Advanced Visual Design</em></p>
       </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/👥_Leadership-228B22?style=for-the-badge&labelColor=6B8E23&color=228B22" />
-        <br><br>
-        <em>Strategic Communication</em><br>
-        <em>Cross-Cultural Collaboration</em><br>
-        <em>Team Leadership • Problem-Solving</em>
+      <td align="center" width="33%">
+        <h3>👥 Leadership</h3>
+        <p><em>Strategic Communication<br>Cross-Cultural Collaboration<br>Team Leadership<br>Complex Problem-Solving</em></p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🌱 Specialties</h3>
+        <p><em>UX/UI Design<br>iOS Development<br>Data Science<br>Full-Stack Development</em></p>
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🌱_Specialties-DarkGreen?style=for-the-badge&labelColor=ForestGreen&color=DarkGreen" />
-  <br><br>
-  <em>UX/UI Design • iOS Development • Data Science • Full-Stack Development</em>
 </div>
 
 ---
