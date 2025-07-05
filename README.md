@@ -16,21 +16,18 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/🌸-Programming%20Languages-F5DEB3?style=for-the-badge&labelColor=DEB887&color=F5DEB3" />
-
-*Python, JavaScript, Java, Julia, C/C++, Swift, Prolog, Assembly*
-
-<br>
-
-<img src="https://img.shields.io/badge/🌿-Web%20%26%20Systems-E6F3E6?style=for-the-badge&labelColor=90EE90&color=E6F3E6" />
-
-*HTML5, CSS3, Git, REST APIs, Advanced Debugging, Automated Testing, Process Automation*
+### 🌸 Programming Languages
+*Python • JavaScript • Java • Julia • C/C++ • Swift • Prolog • Assembly*
 
 <br>
 
-<img src="https://img.shields.io/badge/🍃-Frameworks%20%26%20Platforms-F0FFF0?style=for-the-badge&labelColor=98FB98&color=F0FFF0" />
+### 🌿 Web & Systems  
+*HTML5 • CSS3 • Git • REST APIs • Advanced Debugging • Automated Testing • Process Automation*
 
-*SwiftUI, UIKit, React, Figma, Enterprise-grade Development Tools*
+<br>
+
+### 🍃 Frameworks & Platforms
+*SwiftUI • UIKit • React • Figma • Enterprise-grade Development Tools*
 
 <br><br>
 
@@ -42,36 +39,32 @@
 <tr>
 <td align="center" width="33%">
 
-**🎨 Creative Suite**
-```
-Adobe Illustrator
-Photoshop
-Premiere Pro
-After Effects
-Advanced Visual Design
-```
+### 🎨 Creative Suite
+
+*Adobe Illustrator*  
+*Photoshop • Premiere Pro*  
+*After Effects*  
+*Advanced Visual Design*
 
 </td>
 <td align="center" width="33%">
 
-**👥 Leadership**
-```
-Strategic Communication
-Cross-Cultural Collaboration
-Team Leadership
-Complex Problem-Solving
-```
+### 👥 Leadership
+
+*Strategic Communication*  
+*Cross-Cultural Collaboration*  
+*Team Leadership*  
+*Complex Problem-Solving*
 
 </td>
 <td align="center" width="33%">
 
-**🌱 Specialties**
-```
-UX/UI Design
-iOS Development
-Data Science
-Full-Stack Development
-```
+### 🌱 Specialties
+
+*UX/UI Design*  
+*iOS Development*  
+*Data Science*  
+*Full-Stack Development*
 
 </td>
 </tr>
