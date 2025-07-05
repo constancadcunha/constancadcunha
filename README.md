@@ -124,7 +124,6 @@ I'm always excited to discuss innovative projects, UX design challenges, or lead
 ### 📫 Get In Touch
 - 💼 **Professional inquiries:** constancadcunha@gmail.com
 - 🌐 **Portfolio:** [constancadcunha.github.io/portfolio](https://constancadcunha.github.io/portfolio/)
-- 📱 **Phone:** +351 934 864 186
 
 ---
 
