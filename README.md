@@ -12,7 +12,7 @@
 
 <div align="center">
 
-*✨ Like tending a garden, I nurture each skill with care and intention ✨*
+*✨ Like tending a garden, each skill needs to be nurtured with care and intention ✨*
 
 <br>
 
@@ -44,7 +44,7 @@
 
 | 🌸 **Achievement** | 🌿 **Impact** |
 |:---|:---|
-| **2-week miracle** | Completed 2-month project in 2 weeks through strategic planning |
+| **2-week success** | Completed 2-month project in 2 weeks through strategic planning |
 | **Heart-centered leadership** | Boosted team satisfaction by 65% as Head of HR |
 | **Community builder** | Coordinated Portugal's largest free tech conference (5000+ attendees) |
 | **Team cultivator** | Successfully recruited and nurtured 56+ team members |
