@@ -8,23 +8,21 @@
 
 ### 🌻 What I'm Growing
 
-**💻 Programming Languages**
-- Python, JavaScript, Java, Julia, C/C++, Swift, Prolog, Assembly
+<div align="center">
+  
+| 💻 **Programming Languages** | 🌐 **Web & Systems** | 🚀 **Frameworks & Platforms** |
+|:---:|:---:|:---:|
+| Python • JavaScript • Java | HTML5 • CSS3 • Git | SwiftUI • UIKit • React |
+| Julia • C/C++ • Swift | REST APIs • Advanced Debugging | Figma • Enterprise Tools |
+| Prolog • Assembly | Testing • Process Automation | Full-Stack Development |
 
-**🌐 Web & Systems**
-- HTML5, CSS3, Git, REST APIs, Advanced Debugging, Automated Testing, Process Automation
+| 🎨 **Creative Suite** | 👥 **Leadership** | 🌱 **Specialties** |
+|:---:|:---:|:---:|
+| Adobe Illustrator • Photoshop | Strategic Communication | UX/UI Design |
+| Premiere Pro • After Effects | Cross-Cultural Collaboration | iOS Development |
+| Advanced Visual Design | Team Leadership • Problem-Solving | Data Science |
 
-**🚀 Frameworks & Platforms**
-- Figma, SwiftUI, UIKit, React, Enterprise-grade Development Tools
-
-**🎨 Creative Suite**
-- Figma, Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Advanced Visual Design
-
-**👥 Leadership Competencies**
-- Strategic Communication, Cross-Cultural Collaboration, Team Leadership, Complex Problem-Solving
-
-**🌱 Specialties**
-- UX/UI Design, iOS Development, Data Science, Full-Stack Development
+</div>
 
 ### 🏆 Seeds of Success
 - 🌸 **2-week miracle:** Completed 2-month project in 2 weeks
