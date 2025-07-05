@@ -12,36 +12,71 @@
 
 <div align="center">
 
-### 🌸 Programming Languages
-*Python • JavaScript • Java • Julia • C/C++ • Swift • Prolog • Assembly*
-
-### 🍃 Web & Systems  
-*HTML5 • CSS3 • Git • REST APIs • Advanced Debugging • Automated Testing • Process Automation*
-
-### 🌿 Frameworks & Platforms
-*SwiftUI • UIKit • React • Figma • Enterprise-grade Development Tools*
-
-</div>
+*✨ Like tending a garden, I nurture each skill with care and intention ✨*
 
 <br>
 
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0">
-    <tr>
-      <td align="center" width="33%">
-        <h3>🎨 Creative Suite</h3>
-        <p><em>Adobe Illustrator<br>Photoshop • Premiere Pro<br>After Effects<br>Advanced Visual Design</em></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>👥 Leadership</h3>
-        <p><em>Strategic Communication<br>Cross-Cultural Collaboration<br>Team Leadership<br>Complex Problem-Solving</em></p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🌱 Specialties</h3>
-        <p><em>UX/UI Design<br>iOS Development<br>Data Science<br>Full-Stack Development</em></p>
-      </td>
-    </tr>
-  </table>
+<img src="https://img.shields.io/badge/🌸-Programming%20Languages-F5DEB3?style=for-the-badge&labelColor=DEB887&color=F5DEB3" />
+
+*Python, JavaScript, Java, Julia, C/C++, Swift, Prolog, Assembly*
+
+<br>
+
+<img src="https://img.shields.io/badge/🌿-Web%20%26%20Systems-E6F3E6?style=for-the-badge&labelColor=90EE90&color=E6F3E6" />
+
+*HTML5, CSS3, Git, REST APIs, Advanced Debugging, Automated Testing, Process Automation*
+
+<br>
+
+<img src="https://img.shields.io/badge/🍃-Frameworks%20%26%20Platforms-F0FFF0?style=for-the-badge&labelColor=98FB98&color=F0FFF0" />
+
+*SwiftUI, UIKit, React, Figma, Enterprise-grade Development Tools*
+
+<br><br>
+
+> *"In my creative cottage, every tool has its place and purpose"*
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🎨 Creative Suite**
+```
+Adobe Illustrator
+Photoshop
+Premiere Pro
+After Effects
+Advanced Visual Design
+```
+
+</td>
+<td align="center" width="33%">
+
+**👥 Leadership**
+```
+Strategic Communication
+Cross-Cultural Collaboration
+Team Leadership
+Complex Problem-Solving
+```
+
+</td>
+<td align="center" width="33%">
+
+**🌱 Specialties**
+```
+UX/UI Design
+iOS Development
+Data Science
+Full-Stack Development
+```
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
