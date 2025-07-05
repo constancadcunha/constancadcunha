@@ -2,7 +2,7 @@
 ### Creative Software Engineer & UX Designer | Turning Ideas Into Impact
 
 🚀 **Currently:** Developing SageBook - Revolutionary cooking learning app with SwiftUI  
-🎨 **Recently:** Led visual strategy for Portugal's largest tech conference (5000+ attendees)  
+🎨 **Recently:** Coordinated Portugal's largest tech conference (5000+ attendees) 
 💡 **Superpower:** Delivering exceptional results under pressure (2-week project completion record)  
 🌍 **Based in:** Lisbon, Portugal | Looking to relocate!
 
