@@ -1,11 +1,6 @@
 # 🌿 Hi, I'm Constança ✨
 ### Creative Software Engineer & UX Designer | Cultivating Digital Experiences with Heart
 
-🌱 **Currently:** Nurturing SageBook - A cooking learning app that grows with you  
-🍄 **Recently:** Coordinated Portugal's largest tech conference (5000+ kindred spirits)  
-🌸 **Superpower:** Blooming under pressure (2-week project completion magic)  
-🏡 **Based in:** Lisbon, Portugal | Ready to plant new roots!
-
 ## 🌾 GitHub Garden & Achievements
 
 <div align="center">
@@ -19,29 +14,17 @@
 - 🌱 **Specialties:** UX/UI Design, iOS Development, Leadership, Data Science
 
 ### 🏆 Seeds of Success
-- 🌸 **2-week miracle:** Completed 2-month Sky Portugal project in record time
+- 🌸 **2-week miracle:** Completed 2-month project in 2 weeks
 - 📈 **Heart-centered leadership:** Boosted team satisfaction by 65% as Head of HR
-- 🎨 **Community builder:** Coordinated Portugal's largest tech conference
+- 🎨 **Community builder:** Coordinated Portugal's largest free tech conference (5000+ attendees)
 - 👥 **Team cultivator:** Successfully recruited and nurtured 56+ team members
-
-## 🌼 Featured Projects
-
-### 📱 SageBook - Where Cooking Wisdom Grows
-*Revolutionary cooking learning app with cottagecore charm*  
-**Tech:** SwiftUI, Figma | [🔗 Case Study](https://constancadcunha.github.io/SageBook/)
-
-### 🎵 CottageTunes - Music for the Soul
-*Thoughtfully crafted iOS music experience*  
-**Tech:** SwiftUI, UIKit | [📱 GitHub](https://github.com/constancadcunha/CottageTunes)
-
----
 
 ⭐ **Fun Fact:** My creative hobbies mirror my development style - just like I craft intuitive UIs, I love painting, baking, crocheting, reading, and writing. Both coding and creativity require patience, attention to detail, and turning ideas into something beautiful!
 
 💌 **Let's create something beautiful together!** I'm passionate about crafting digital experiences that feel as warm and inviting as a cozy cottage kitchen.
 
 ### 📫 Get In Touch
-- 💼 **Professional inquiries:** constancadcunha@gmail.com
+💼 **Professional inquiries:** constancadcunha@gmail.com
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B4513?style=for-the-badge&logo=leaf&logoColor=white)](https://constancadcunha.github.io/portfolio/)
 [![Personal Site](https://img.shields.io/badge/About_Me-228B22?style=for-the-badge&logo=seedling&logoColor=white)](https://constancadcunha.github.io/constancacunha/)
