@@ -71,7 +71,7 @@
 
 <div align="center">
   <em>I'm passionate about crafting digital experiences that feel as warm and inviting as a cozy cottage kitchen.</em>
-  <br>
+  <br><br>
   
   [![Portfolio](https://img.shields.io/badge/🌿_Portfolio-8B4513?style=for-the-badge&logo=leaf&logoColor=white)](https://constancadcunha.github.io/portfolio/)
   [![Personal Site](https://img.shields.io/badge/🌱_About_Me-228B22?style=for-the-badge&logo=seedling&logoColor=white)](https://constancadcunha.github.io/constancacunha/)
