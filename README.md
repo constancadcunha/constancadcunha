@@ -2,14 +2,29 @@
 ### Creative Software Engineer & UX Designer | Cultivating Digital Experiences with Heart
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=constancadcunha&show_icons=true&theme=graywhite&title_color=8B4513&icon_color=228B22&text_color=654321&bg_color=FAF0E6&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constancadcunha&theme=default&background=FAF0E6&border=D2691E&stroke=8B4513&ring=228B22&fire=D2691E&currStreakNum=654321&sideNums=654321&currStreakLabel=8B4513&sideLabels=8B4513&dates=654321" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=constancadcunha&show_icons=true&theme=graywhite&title_color=8B4513&icon_color=228B22&text_color=654321&bg_color=FAF0E6&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constancadcunha&theme=default&background=FAF0E6&border=D2691E&stroke=8B4513&ring=228B22&fire=D2691E&currStreakNum=654321&sideNums=654321&currStreakLabel=8B4513&sideLabels=8B4513&dates=654321" alt="GitHub Streak" width="48%" />
 </div>
 
 ### 🌻 What I'm Growing
-- 🍯 **Languages:** Python, JavaScript, Swift, Java, C++
-- 🌿 **Frameworks:** SwiftUI, React, Figma, Adobe Creative Suite
-- 🌱 **Specialties:** UX/UI Design, iOS Development, Leadership, Data Science
+
+**💻 Programming Languages**
+- Python, JavaScript, Java, Julia, C/C++, Swift, Prolog, Assembly
+
+**🌐 Web & Systems**
+- HTML5, CSS3, Git, REST APIs, Advanced Debugging, Automated Testing, Process Automation
+
+**🚀 Frameworks & Platforms**
+- Figma, SwiftUI, UIKit, React, Enterprise-grade Development Tools
+
+**🎨 Creative Suite**
+- Figma, Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Advanced Visual Design
+
+**👥 Leadership Competencies**
+- Strategic Communication, Cross-Cultural Collaboration, Team Leadership, Complex Problem-Solving
+
+**🌱 Specialties**
+- UX/UI Design, iOS Development, Data Science, Full-Stack Development
 
 ### 🏆 Seeds of Success
 - 🌸 **2-week miracle:** Completed 2-month project in 2 weeks
