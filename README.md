@@ -57,14 +57,6 @@
 
 > *"My creative hobbies mirror my development style - just like I craft intuitive UIs, I love painting, baking, crocheting, reading, and writing. Both coding and creativity require patience, attention to detail, and turning ideas into something beautiful!"*
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🎨_Painting-F5DEB3?style=flat-square&labelColor=D2691E&color=F5DEB3" />
-  <img src="https://img.shields.io/badge/🥧_Baking-FFF8DC?style=flat-square&labelColor=DEB887&color=FFF8DC" />
-  <img src="https://img.shields.io/badge/🧶_Crocheting-F0E68C?style=flat-square&labelColor=BDB76B&color=F0E68C" />
-  <img src="https://img.shields.io/badge/📚_Reading-E6F3E6?style=flat-square&labelColor=90EE90&color=E6F3E6" />
-  <img src="https://img.shields.io/badge/✍️_Writing-F0FFF0?style=flat-square&labelColor=98FB98&color=F0FFF0" />
-</div>
-
 ---
 
 ## 💌 *Let's Create Something Beautiful Together*
