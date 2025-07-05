@@ -77,8 +77,6 @@
   [![Personal Site](https://img.shields.io/badge/🌱_About_Me-228B22?style=for-the-badge&logo=seedling&logoColor=white)](https://constancadcunha.github.io/constancacunha/)
   [![Email](https://img.shields.io/badge/📧_Email-D2691E?style=for-the-badge&logo=envelope&logoColor=white)](mailto:constancadcunha@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-6B8E23?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanca-cunha/)
-
-  💼 **Professional inquiries:** constancadcunha@gmail.com
   
   ![Profile Views](https://komarev.com/ghpvc/?username=constancadcunha&color=8B4513&style=flat-square&label=Garden+Visitors)
 </div>
