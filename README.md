@@ -1,8 +1,6 @@
 # 🌿 Hi, I'm Constança ✨
 ### Creative Software Engineer & UX Designer | Cultivating Digital Experiences with Heart
 
-## 🌾 GitHub Garden & Achievements
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=constancadcunha&show_icons=true&theme=graywhite&title_color=8B4513&icon_color=228B22&text_color=654321&bg_color=FAF0E6&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=constancadcunha&theme=default&background=FAF0E6&border=D2691E&stroke=8B4513&ring=228B22&fire=D2691E&currStreakNum=654321&sideNums=654321&currStreakLabel=8B4513&sideLabels=8B4513&dates=654321" alt="GitHub Streak" />
