@@ -28,7 +28,7 @@
 |:---:|:---:|:---:|
 | *Adobe Illustrator • Photoshop* | *Strategic Communication* | *UX/UI Design* |
 | *Premiere Pro • After Effects* | *Cross-Cultural Collaboration* | *iOS Development* |
-| *Advanced Visual Design* | *Team Leadership • Problem-Solving* | *Data Science* |
+| *Advanced Visual Design* | *Team Leadership • Problem-Solving* | *Frontend Development* |
 
 <br>
 
