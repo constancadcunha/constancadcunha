@@ -1,5 +1,5 @@
 # 🌿 Hi, I'm Constança ✨
-*Creative Software Engineer & UX Designer | Cultivating Digital Experiences with Heart*
+*Software Engineer & UX Designer | Cultivating Digital Experiences with Heart*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=constancadcunha&show_icons=true&theme=graywhite&title_color=8B4513&icon_color=228B22&text_color=654321&bg_color=FAF0E6&count_private=true" alt="GitHub Stats" width="48%" />
