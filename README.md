@@ -1,5 +1,5 @@
 # 🌿 Hi, I'm Constança ✨
-*Product Designer with Engineering Depth | Crafting Intuitive Digital Experiences*
+*Design Engineer | I design in Figma and ship in code*
 
 <div align="center">
 
@@ -14,6 +14,31 @@
 
 ---
 
+## 🌱 *What I'm Growing Right Now*
+
+I'm a **Frontend Developer at Phira Ventures**, where I redesign and build the Shopify storefront for **mySheepi**, a German sleep brand with 200,000+ customers, and build the website for **Margem**, a new independent bookstore in Ericeira.
+
+I have an M.Sc. in Computer Science (Interaction & Visualization) from Instituto Superior Técnico, and I love working in the space where design and code meet: from the first Figma sketch to the last line of CSS.
+
+---
+
+## 🧺 *Featured Projects*
+
+<div align="center">
+
+| Project | What it is | Built with |
+|:---|:---|:---|
+| **[StitchCraft Studio](https://github.com/constancadcunha/knitcraft)** | A web app for knitters and crocheters: AI pattern drafting from a description or photo, a colourwork chart editor, and a voice-controlled row tracker | Next.js, React, TypeScript |
+| **[skein.](https://github.com/constancadcunha/skein)** | A live colour studio for crochet. Pick your yarns, choose your stitch, watch it come to life | JavaScript |
+| **[bookPod](https://github.com/constancadcunha/bookPod)** | An iPod classic, but for books. Scroll the wheel, find your next read | JavaScript |
+| **[incipit](https://github.com/constancadcunha/incipit)** | The first line of a novel that was never written. Press any key for another, forever | JavaScript |
+| **[CottageTunes](https://github.com/constancadcunha/CottageTunes)** | A whimsical music player with floral UI and nostalgic cottagecore charm | SwiftUI |
+| **[Figma Projects](https://github.com/constancadcunha/Figma_Projects)** | My prototypes and case studies, including SageBook and ReMi | Figma |
+
+</div>
+
+---
+
 ## 🌻 *What I Design & Build With*
 
 <div align="center">
@@ -22,19 +47,19 @@
 
 <br>
 
-| 🎨 **Product Design** | 🌿 **Frontend** | 🍃 **Design Tools** |
+| 🎨 **Design** | 🌿 **Frontend** | 🍃 **Tools** |
 |:---:|:---:|:---:|
-| *UX Research • Interaction Design* | *React • SwiftUI • UIKit* | *Figma (Expert)* |
-| *Design Systems • Prototyping* | *HTML5 • CSS3 • JavaScript* | *Adobe Illustrator • Photoshop* |
-| *Usability Testing • Info Architecture* | *TypeScript • REST APIs* | *Premiere Pro • After Effects* |
+| *UX Research • Interaction Design* | *Next.js • React • TypeScript* | *Figma (Expert)* |
+| *Design Systems • Prototyping* | *HTML5 • CSS3 • Tailwind CSS* | *Illustrator • Photoshop* |
+| *Usability Testing • Accessibility* | *Shopify Liquid • SwiftUI* | *Premiere Pro • After Effects* |
 
 <br>
 
-| 👥 **Leadership** | 🌱 **Engineering** | 💡 **Specialties** |
+| 🤖 **AI Workflow** | 🌱 **Engineering** | 💡 **Specialties** |
 |:---:|:---:|:---:|
-| *Strategic Communication* | *Python • Java • Swift* | *iOS Development* |
-| *Cross-Functional Collaboration* | *Git • Testing • Automation* | *Full-Stack Development* |
-| *Team Leadership • Problem-Solving* | *CMS Platforms* | *Enterprise Design Thinking* |
+| *Cursor • Claude Code* | *Python • Java • Swift* | *Design Engineering* |
+| *AI-Assisted Prototyping* | *Git • Vitest • REST APIs* | *Motion & Micro-interactions* |
+| *LLM Integration* | *Django* | *iOS Development* |
 
 <br>
 
@@ -50,10 +75,11 @@
 
 | 🌸 **Achievement** | 🌿 **Impact** |
 |:---|:---|
-| **Live product ownership** | Led UI/UX strategy for a real estate platform with 500+ active users |
-| **Design system builder** | Built atomic design system & reusable components, boosting dev efficiency |
+| **Storefront at scale** | Redesigning and building a Shopify storefront for 200,000+ customers |
+| **Live product ownership** | Sole designer and frontend engineer on a real estate platform with 500+ users |
+| **Design system builder** | Built an atomic design system that cut estimated build time for new features by ~30% |
 | **Community cultivator** | Coordinated Portugal's largest free tech conference (5,000+ attendees) |
-| **Heart-centered leader** | Recruited and nurtured 20+ member team as Head of HR |
+| **Visual storyteller** | Designed 30+ graphics for SINFO, including two of its top-performing Instagram posts |
 
 </div>
 
@@ -61,7 +87,7 @@
 
 ## 🌾 *A Little About My Creative Soul*
 
-> *"My creative hobbies mirror my design philosophy — just like I craft intuitive, user-centered products, I love painting, baking, crocheting, reading, and writing. Design and creativity both require patience, empathy, and turning ideas into something beautiful."*
+> *"My creative hobbies mirror my design philosophy. Just like I craft intuitive, user-centered products, I love painting, baking, knitting, crocheting, reading, and writing. Design and creativity both require patience, empathy, and turning ideas into something beautiful."*
 
 ---
 
